@@ -13,13 +13,13 @@
 
 <img align="right" width="400" alt="dragon" src="https://i.pinimg.com/originals/5f/29/30/5f293030b863a0c6f927959f7c57d3bc.jpg"/>
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
 - 👨‍💻 Currently working as a **front-end developer**
 - 🤓 Seeking to become a **full-stack developer**
 - 🎓 I'm also pursuing a bachelors degree in **software engineering**
 
-<h2>  // Skills  </h2>
+<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>Habilidades
   
 - <h3> programming & markup languages </h3>
   
