@@ -25,28 +25,58 @@
   
   <img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt = "html" />
   <img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt = "css" />
-  <img src = "https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" alt = "sass" />
   <img src = "https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt = "js" />
   <img src = "https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt = "python" />
   
-  - <h4> currently learning </h4>
-    <img src = "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt = "ts" />
-    
-  
 - <h3>  frameworks & libraries </h3>
   <img src = "https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt = "react" />
-  <img src = "https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt = "bootstrap5" />
   <img src = "https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt = "tailwind" />
+  <img src="https://img.shields.io/badge/bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white"alt="bootstrap"/>
   
 - <h3> tools </h3>
     <img src = "https://img.shields.io/badge/figma-7434a4?style=for-the-badge&logo=figma&logoColor=white" alt = "figma" />
     <img src = "https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt = "git" />
+    <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
   <img src = "https://img.shields.io/badge/adobe%20photoshop-001E36.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=" alt = "photoshop" />
   <img src = "https://img.shields.io/badge/adobe%20illustrator-3c240c.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=f8a829" alt = "illustrator" />
   
-  - <h4> currently learning </h4>
+- <h3> Data Base </h3>
   
     <img src = "https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt = "mongodb" />
+    <a href="https://www.sqlite.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/sqlite-003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white"
+      alt="sqlite"/>
+
+<h3>Preferred IDEs  & Tools :</h3>
+  
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vsCode"/> 
+  </a>
+  <a href="https://postman.com" target="_blank"> 
+    <img src="https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/>
+  </a>
+  <a href="https://www.virtualbox.org/" target="_blank">
+    <img src="https://img.shields.io/badge/virtualbox-183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=white"
+      alt="virtualbox"/>
+  </a>
+  <a href="https://ubuntu.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu"/>
+  </a>
 
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/adam-pithewan/" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="adam pithewan" height="30" width="40" /></a>
+  <a href="https://fb.com/adam pithen wala" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
+      alt="adam pithen wala" height="30" width="40" /></a>
+  <a href="https://instagram.com/_._.adam._" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+      alt="_._.adam._" height="30" width="40" /></a>
+</p>
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
